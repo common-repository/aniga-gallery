@@ -1,0 +1,17 @@
+/*  
+CSS-styles for the ANIga gallery Wordpress Plugin from Michael Naab
+http://animalbeach.net
+*/
+
+.gallery_fieldset {
+	Xborder: 1px dotted #666;
+	border: 1px solid #ccc;
+	padding: 5px;
+	margin-top:10px;
+}
+
+.gallery_border {
+	/*if you have reflections turned on, set this to border:none; */
+	/*border:1px solid #ccc;*/
+	border: none;
+}

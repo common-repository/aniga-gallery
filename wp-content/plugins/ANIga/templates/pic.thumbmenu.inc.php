@@ -1,0 +1,2 @@
+<div class="gallery_clear gallery_list gallery_talignright gallery_padb" id="thumb_nav"><?php _e('show', 'aniga'); ?> <?php $this->thumbselect($this->id); ?> <?php _e('per page', 'aniga'); ?> | <a href="<?php echo aniga_get_permalink($this->id, $this->id, 'slideshow=start&amp;ssid'); ?>"><?php _e('start slideshow', 'aniga'); ?></a>
+</div>

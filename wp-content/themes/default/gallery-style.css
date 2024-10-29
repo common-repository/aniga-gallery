@@ -1,0 +1,130 @@
+/*  
+CSS-styles for the ANIga gallery Wordpress Plugin from Michael Naab
+http://animalbeach.net
+*/
+
+.gallery_clear {
+	clear:both;
+}
+
+.gallery_list {
+	padding-top:5px;
+}
+
+.gallery_alignright {
+	float: right;
+}
+.gallery_alignleft {
+	float: left;
+}
+
+.gallery_aligncenter {
+	text-align:center;
+}
+
+.gallery_talignleft {
+	text-align:left;
+}
+
+.gallery_talignright, .gallery_thumb_pages {
+	text-align:right;
+}
+
+.gallery_list_p {
+	padding-right:10px;
+	padding-left:10px;
+	padding-top:10px;
+	width:65%;
+}
+
+.gallery_thumb_border {
+	/*if you have reflections turned off, use this: */
+	/*border:1px solid #ccc;*/
+	border: none;
+}
+
+.gallery_select {
+	font: 0.9em 'Lucida Grande', Verdana, Arial, Sans-Serif;
+}
+
+/* this is for a constant viewing position when clicking through pictures */
+.gallery_slds_td {
+	height:400px;
+	width:400px;
+	/*this is for black stripes (just like 16 to 9 in TV) */
+	background:black;
+}
+
+.gallery_slds_table {
+	height:400px;
+	width:400px;
+	border:none;
+}
+
+.gallery_thumb_td {
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+/*	border:1px solid #ddd;*/
+/*	background-color:#d5d6d7;*/
+	font-size:0.9em;
+	line-height:0.9em;
+}
+
+.gallery_thumb_comments {
+	position: relative;
+	z-index: 1;
+	/*if you have reflections turned off use this: */
+	/*top:0px;*/
+	top: -15px;
+	text-align: center;
+}
+
+.gallery_slds_filter {
+	filter:progid:DXImageTransform.Microsoft.Fade();
+}
+
+.gallery_error {
+	border:1px solid #ddd;
+	background:#FFFF99;
+	color:#000000;
+	padding:10px;
+	margin:30px;
+	text-align:center;
+}
+
+.gallery_meta {
+	color: #777;
+	padding-top: 5px;
+	margin: 30px 0;
+	clear: both;
+	text-align: center;
+}
+
+.gallery_alt {
+	margin: 0;
+	padding: 10px;
+	background-color: #f8f8f8;
+	border-top: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+}
+
+.gallery_pad, .gallery_pad_thumb  {
+	padding-top: 20px;
+}
+
+.gallery_padb {
+	padding-bottom: 15px;
+}
+
+.gallery_line_h {
+	line-height:20px;
+}
+
+.gallery_high {
+	color:#777;
+}
+
+.gallery_nav_thumb {
+	/* breadcrumb navigation */
+}

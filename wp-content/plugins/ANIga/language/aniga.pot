@@ -1,0 +1,1002 @@
+msgid ""
+msgstr ""
+
+#: aniga_gallery.php:81
+msgid "Everyone"
+msgstr ""
+
+#: aniga_gallery.php:81
+msgid "Userlevel"
+msgstr ""
+
+#: aniga_gallery.php:81
+msgid "Administrator"
+msgstr ""
+
+#: aniga_gallery.php:286
+msgid "Manage ANIga gallery"
+msgstr ""
+
+#: aniga_gallery.php:288
+msgid "Add a New Album - ANIga gallery"
+msgstr ""
+
+#: aniga_gallery.php:288
+msgid "New Album"
+msgstr ""
+
+#: aniga_gallery.php:290
+msgid "Insert Pictures into Album - ANIga gallery"
+msgstr ""
+
+#: aniga_gallery.php:290
+#: ANIga/admin_insert.php:325
+msgid "Insert Pictures"
+msgstr ""
+
+#: aniga_gallery.php:292
+msgid "Change Options for ANIga gallery"
+msgstr ""
+
+#: aniga_gallery.php:292
+msgid "Options"
+msgstr ""
+
+#: aniga_gallery.php:397
+#: aniga_gallery.php:426
+msgid "view this picture"
+msgstr ""
+
+#: aniga_gallery.php:397
+#: aniga_gallery.php:426
+msgid "Random Picture"
+msgstr ""
+
+#: aniga_gallery.php:500
+#, php-format
+msgid "View the entire comment by %s"
+msgstr ""
+
+#: ANIga/admin_insert.php:44
+#, php-format
+msgid "!!%1$s%2$s is not allowed!!"
+msgstr ""
+
+#: ANIga/admin_insert.php:52
+msgid "Uploading Images"
+msgstr ""
+
+#: ANIga/admin_insert.php:68
+#: ANIga/admin_insert.php:115
+msgid "Uploading complete. Press the button to proceed with inserting and resizing."
+msgstr ""
+
+#: ANIga/admin_insert.php:81
+#, php-format
+msgid "'%s' is not a zip file!"
+msgstr ""
+
+#: ANIga/admin_insert.php:103
+msgid "Uploading Images from zip file"
+msgstr ""
+
+#: ANIga/admin_insert.php:144
+#: ANIga/admin_insert.php:166
+msgid "failed"
+msgstr ""
+
+#: ANIga/admin_insert.php:145
+#: ANIga/admin_insert.php:167
+#: ANIga/admin_manage.php:51
+msgid "successful"
+msgstr ""
+
+#: ANIga/admin_insert.php:219
+msgid "Inserting Pictures... please wait"
+msgstr ""
+
+#: ANIga/admin_insert.php:223
+#: ANIga/admin_manage.php:112
+msgid "Please be patient. Do not close this window, until the process is finished!"
+msgstr ""
+
+#: ANIga/admin_insert.php:226
+#: ANIga/admin_manage.php:115
+msgid "Picture"
+msgstr ""
+
+#: ANIga/admin_insert.php:226
+#: ANIga/admin_manage.php:115
+msgid "Size"
+msgstr ""
+
+#: ANIga/admin_insert.php:226
+#: ANIga/admin_manage.php:115
+msgid "Database Insert"
+msgstr ""
+
+#: ANIga/admin_insert.php:226
+#: ANIga/admin_manage.php:115
+msgid "Thumbnail"
+msgstr ""
+
+#: ANIga/admin_insert.php:226
+#: ANIga/admin_manage.php:115
+msgid "Normal Picture"
+msgstr ""
+
+#: ANIga/admin_insert.php:237
+msgid "insert"
+msgstr ""
+
+#: ANIga/admin_insert.php:238
+#: ANIga/admin_insert.php:239
+#: ANIga/admin_manage.php:127
+#: ANIga/admin_manage.php:128
+msgid "waiting for resize ..."
+msgstr ""
+
+#: ANIga/admin_insert.php:238
+#: ANIga/admin_insert.php:239
+#: ANIga/admin_manage.php:127
+#: ANIga/admin_manage.php:128
+msgid "resize disabled"
+msgstr ""
+
+#: ANIga/admin_insert.php:255
+msgid "Insert new Pictures into an Album"
+msgstr ""
+
+#: ANIga/admin_insert.php:267
+msgid "Mass Upload"
+msgstr ""
+
+#: ANIga/admin_insert.php:278
+#: ANIga/admin_insert.php:356
+msgid "Select Album"
+msgstr ""
+
+#: ANIga/admin_insert.php:290
+#: ANIga/admin_insert.php:369
+#: ANIga/admin_manage.php:196
+#: ANIga/admin_manage.php:538
+#: ANIga/admin_manage.php:579
+#: ANIga/admin_manage.php:658
+#: ANIga/admin_rel.php:150
+msgid "Level"
+msgstr ""
+
+#: ANIga/admin_insert.php:298
+#: ANIga/admin_insert.php:377
+#: ANIga/admin_rel.php:158
+msgid "is allowed to view the Pictures"
+msgstr ""
+
+#: ANIga/admin_insert.php:302
+msgid "Choose Upload Method"
+msgstr ""
+
+#: ANIga/admin_insert.php:303
+msgid "Pictures already uploaded with FTP"
+msgstr ""
+
+#: ANIga/admin_insert.php:306
+msgid "Url to directory (with write access)"
+msgstr ""
+
+#: ANIga/admin_insert.php:310
+msgid "Upload Pictures in zip file"
+msgstr ""
+
+#: ANIga/admin_insert.php:313
+msgid "Zip file (only images, no folders in archive, no blanks in filename!)"
+msgstr ""
+
+#: ANIga/admin_insert.php:319
+msgid "disable automatic Picture resizing for this Upload"
+msgstr ""
+
+#: ANIga/admin_insert.php:346
+msgid "Bulk Upload"
+msgstr ""
+
+#: ANIga/admin_insert.php:347
+msgid "Bulk upload for up to 5 Pictures"
+msgstr ""
+
+#: ANIga/admin_insert.php:381
+msgid "Pictures Files"
+msgstr ""
+
+#: ANIga/admin_insert.php:392
+msgid "Upload Pictures"
+msgstr ""
+
+#: ANIga/admin_insert.php:399
+msgid "Information"
+msgstr ""
+
+#: ANIga/admin_insert.php:400
+msgid "Supported Image types:  <strong>jpg, gif, png</strong>"
+msgstr ""
+
+#: ANIga/admin_insert.php:404
+msgid "<strong>Automatic Picture resizing is disabled, therefore you cannot use the Bulk Upload </strong><br />You need to provide 3 files for each Picture:<br /><strong>filename.jpg</strong> - the original Picture (size does not matter)<br /><strong>normal_filename.jpg</strong> - this is shown in the post and links to the original Picture(e.g. max. 400px)<br /><strong>thumb_filename.jpg</strong> - the thumbnail of the original Picture(e.g. max. 150px)"
+msgstr ""
+
+#: ANIga/admin_manage.php:29
+msgid "edit Album"
+msgstr ""
+
+#: ANIga/admin_manage.php:108
+msgid "Updating Pictures... please wait"
+msgstr ""
+
+#: ANIga/admin_manage.php:148
+#: ANIga/admin_rel.php:122
+msgid "Album title"
+msgstr ""
+
+#: ANIga/admin_manage.php:153
+#: ANIga/admin_rel.php:127
+msgid "Album description"
+msgstr ""
+
+#: ANIga/admin_manage.php:158
+msgid "change parent Album"
+msgstr ""
+
+#: ANIga/admin_manage.php:176
+msgid "Overwrite Album image"
+msgstr ""
+
+#: ANIga/admin_manage.php:176
+#: ANIga/admin_rel.php:132
+#, php-format
+msgid "(max. %s px)"
+msgstr ""
+
+#: ANIga/admin_manage.php:182
+#: ANIga/admin_manage.php:656
+#: ANIga/admin_rel.php:137
+msgid "Order"
+msgstr ""
+
+#: ANIga/admin_manage.php:183
+#: ANIga/admin_rel.php:138
+msgid "Sorting order from higher numbers to lower numbers."
+msgstr ""
+
+#: ANIga/admin_manage.php:187
+#: ANIga/admin_rel.php:142
+msgid "Comments"
+msgstr ""
+
+#: ANIga/admin_manage.php:190
+#: ANIga/admin_rel.php:144
+msgid "enabled"
+msgstr ""
+
+#: ANIga/admin_manage.php:191
+#: ANIga/admin_rel.php:145
+msgid "disabled"
+msgstr ""
+
+#: ANIga/admin_manage.php:205
+msgid "is allowed to view this Album "
+msgstr ""
+
+#: ANIga/admin_manage.php:208
+msgid "Update Album"
+msgstr ""
+
+#: ANIga/admin_manage.php:208
+msgid "Cancel"
+msgstr ""
+
+#: ANIga/admin_manage.php:216
+msgid "Regenerate thumbnails and normal pictures"
+msgstr ""
+
+#: ANIga/admin_manage.php:222
+msgid "Update Pictures for this Album"
+msgstr ""
+
+#: ANIga/admin_manage.php:272
+msgid "You MUST select a Category, if you want to move this Album..."
+msgstr ""
+
+#: ANIga/admin_manage.php:280
+msgid "Album successfully moved..."
+msgstr ""
+
+#: ANIga/admin_manage.php:293
+msgid "Album edited:"
+msgstr ""
+
+#: ANIga/admin_manage.php:346
+#, php-format
+msgid "Picture '%1$s' moved to Album '%2$s'."
+msgstr ""
+
+#: ANIga/admin_manage.php:351
+#: ANIga/admin_manage.php:421
+#, php-format
+msgid "Picture '%s' updated."
+msgstr ""
+
+#: ANIga/admin_manage.php:371
+#, php-format
+msgid "level for %s pictures updated"
+msgstr ""
+
+#: ANIga/admin_manage.php:405
+#, php-format
+msgid "%s pictures deleted!"
+msgstr ""
+
+#: ANIga/admin_manage.php:434
+msgid "album with all pictures deleted!"
+msgstr ""
+
+#: ANIga/admin_manage.php:437
+msgid "huh. which album?"
+msgstr ""
+
+#: ANIga/admin_manage.php:440
+msgid "album still has some child pages and was NOT deleted!"
+msgstr ""
+
+#: ANIga/admin_manage.php:451
+msgid "picture deleted!"
+msgstr ""
+
+#: ANIga/admin_manage.php:487
+msgid "Manage Pictures for Album"
+msgstr ""
+
+#: ANIga/admin_manage.php:516
+#: ANIga/admin_manage.php:695
+msgid "manage Pictures for Album.."
+msgstr ""
+
+#: ANIga/admin_manage.php:535
+#: ANIga/admin_manage.php:576
+msgid "Filename"
+msgstr ""
+
+#: ANIga/admin_manage.php:536
+#: ANIga/admin_manage.php:577
+msgid "Picture Caption"
+msgstr ""
+
+#: ANIga/admin_manage.php:537
+#: ANIga/admin_manage.php:578
+msgid "Hits"
+msgstr ""
+
+#: ANIga/admin_manage.php:539
+#: ANIga/admin_manage.php:580
+#: ANIga/admin_manage.php:659
+msgid "Action"
+msgstr ""
+
+#: ANIga/admin_manage.php:560
+#: ANIga/admin_manage.php:610
+#: ANIga/admin_manage.php:621
+msgid "update"
+msgstr ""
+
+#: ANIga/admin_manage.php:562
+msgid "You are about to delete this Picture with ALL comments."
+msgstr ""
+
+#: ANIga/admin_manage.php:562
+#: ANIga/admin_manage.php:596
+#: ANIga/admin_manage.php:679
+msgid "\\'Cancel\\' to stop, \\'OK\\' to delete."
+msgstr ""
+
+#: ANIga/admin_manage.php:562
+#: ANIga/admin_manage.php:679
+#: ANIga/admin_manage.php:680
+msgid "delete"
+msgstr ""
+
+#: ANIga/admin_manage.php:589
+msgid "Edit multiple pictures"
+msgstr ""
+
+#: ANIga/admin_manage.php:591
+msgid "Invert Checkbox Selection"
+msgstr ""
+
+#: ANIga/admin_manage.php:593
+msgid "delete checked pictures"
+msgstr ""
+
+#: ANIga/admin_manage.php:593
+msgid "You are about to delete these pictures."
+msgstr ""
+
+#: ANIga/admin_manage.php:594
+msgid "The files (original, normal & thumb) will be deleted from your server."
+msgstr ""
+
+#: ANIga/admin_manage.php:596
+msgid "The files (original, normal & thumb) will stay on your server."
+msgstr ""
+
+#: ANIga/admin_manage.php:601
+msgid "Update checked pictures and move them to Album"
+msgstr ""
+
+#: ANIga/admin_manage.php:614
+msgid "Update Level for checked Pictures"
+msgstr ""
+
+#: ANIga/admin_manage.php:615
+msgid "set to"
+msgstr ""
+
+#: ANIga/admin_manage.php:629
+msgid "no Pictures in this Album."
+msgstr ""
+
+#: ANIga/admin_manage.php:645
+msgid "Manage Albums and Pictures"
+msgstr ""
+
+#: ANIga/admin_manage.php:655
+msgid "Album"
+msgstr ""
+
+#: ANIga/admin_manage.php:657
+#: ANIga/templates/pic.thumbmeta.inc.php:5
+msgid "Pictures"
+msgstr ""
+
+#: ANIga/admin_manage.php:675
+msgid "view"
+msgstr ""
+
+#: ANIga/admin_manage.php:676
+msgid "edit"
+msgstr ""
+
+#: ANIga/admin_manage.php:679
+msgid "You are about to delete this Album with ALL pictures"
+msgstr ""
+
+#: ANIga/admin_option.php:109
+msgid "trackback sent"
+msgstr ""
+
+#: ANIga/admin_option.php:113
+msgid "trackback not sent"
+msgstr ""
+
+#: ANIga/admin_option.php:116
+msgid "Options saved"
+msgstr ""
+
+#: ANIga/admin_option.php:123
+msgid "ANIga Options"
+msgstr ""
+
+#: ANIga/admin_option.php:140
+msgid "ANIga Gallery Name"
+msgstr ""
+
+#: ANIga/admin_option.php:143
+msgid "Page title of gallery index page"
+msgstr ""
+
+#: ANIga/admin_option.php:148
+msgid "WP ID (normally no need to change this!!)"
+msgstr ""
+
+#: ANIga/admin_option.php:155
+msgid "Picture Directory Settings"
+msgstr ""
+
+#: ANIga/admin_option.php:156
+msgid "This is the directory where your pictures and album images are stored.<br />Make sure this directory has write access (CHMOD 777).<br />Inside this directory you need to make these directories (with write access): &quot;<strong>00-gfx</strong>&quot; and &quot;<strong>00-single</strong>&quot;."
+msgstr ""
+
+#: ANIga/admin_option.php:159
+msgid "http url to Picture Directory"
+msgstr ""
+
+#: ANIga/admin_option.php:160
+#: ANIga/admin_option.php:166
+msgid "Your_folder"
+msgstr ""
+
+#: ANIga/admin_option.php:165
+msgid "Absolute path to Picture Directory"
+msgstr ""
+
+#: ANIga/admin_option.php:173
+msgid "Picture archive unzipping method"
+msgstr ""
+
+#: ANIga/admin_option.php:174
+msgid "According to your server configuration you should choose"
+msgstr ""
+
+#: ANIga/admin_option.php:175
+#: ANIga/admin_option.php:202
+msgid "'safe mode' on, no zip functionality"
+msgstr ""
+
+#: ANIga/admin_option.php:178
+msgid "php zip library"
+msgstr ""
+
+#: ANIga/admin_option.php:181
+msgid "m_zip library for .php files"
+msgstr ""
+
+#: ANIga/admin_option.php:183
+msgid "m_zip library for .phpx files"
+msgstr ""
+
+#: ANIga/admin_option.php:193
+msgid "php zip library (if your server has php zip library enabled)."
+msgstr ""
+
+#: ANIga/admin_option.php:196
+msgid "m_zip library for .php files (if php zip library disabled)."
+msgstr ""
+
+#: ANIga/admin_option.php:199
+msgid "m_zip library for .phpx files (if php zip library disabled and you cant use exec() in .php files)."
+msgstr ""
+
+#: ANIga/admin_option.php:208
+msgid "Resize Pictures automatically (recommended)"
+msgstr ""
+
+#: ANIga/admin_option.php:209
+msgid "GD lib 2.x needs to be installed! Javascript must be enabled for upload! Supported image types: <strong>jpg</strong>, <strong>png</strong>, <strong>gif</strong>"
+msgstr ""
+
+#: ANIga/admin_option.php:212
+msgid "Resize Quality"
+msgstr ""
+
+#: ANIga/admin_option.php:213
+msgid "Quality for jpg resizing (from 0 to 100)."
+msgstr ""
+
+#: ANIga/admin_option.php:218
+msgid "Max. album image size"
+msgstr ""
+
+#: ANIga/admin_option.php:219
+msgid "Image size in px for Album Images."
+msgstr ""
+
+#: ANIga/admin_option.php:224
+msgid "Max. Normal picture size"
+msgstr ""
+
+#: ANIga/admin_option.php:225
+msgid "Image size in px for the &quot;normal_&quot; pictures, that show up in the post.<br />The original picture will not be resized and will be linked from this one!"
+msgstr ""
+
+#: ANIga/admin_option.php:229
+msgid "Create reflection from a thumbnail"
+msgstr ""
+
+#: ANIga/admin_option.php:230
+msgid "If checked, thumbnails will have an Apple style reflection."
+msgstr ""
+
+#: ANIga/admin_option.php:231
+msgid "Border color rendered into the thumbnail."
+msgstr ""
+
+#: ANIga/admin_option.php:236
+msgid "Max. thumbnail size"
+msgstr ""
+
+#: ANIga/admin_option.php:237
+msgid "Image size in px for thumbnails."
+msgstr ""
+
+#: ANIga/admin_option.php:241
+msgid "Create square thumbnails"
+msgstr ""
+
+#: ANIga/admin_option.php:242
+msgid "If checked, thumbnails will crop images to a square."
+msgstr ""
+
+#: ANIga/admin_option.php:243
+msgid "Image size in px for thumbnails before square crop."
+msgstr ""
+
+#: ANIga/admin_option.php:252
+msgid "Slideshow settings"
+msgstr ""
+
+#: ANIga/admin_option.php:253
+msgid "Javascript must be activated for slideshow."
+msgstr ""
+
+#: ANIga/admin_option.php:255
+msgid "Time between Pictures"
+msgstr ""
+
+#: ANIga/admin_option.php:256
+msgid "change picture every x milliseconds"
+msgstr ""
+
+#: ANIga/admin_option.php:260
+msgid "Preload Pictures"
+msgstr ""
+
+#: ANIga/admin_option.php:261
+msgid "-1 for all pictures to preloade (not recommended for large amount or big picture sizes)"
+msgstr ""
+
+#: ANIga/admin_option.php:265
+msgid "Use fading filter for picture change (may not work on MAC, Mozilla &amp; Opera)"
+msgstr ""
+
+#: ANIga/admin_option.php:269
+msgid "Use Role Manager"
+msgstr ""
+
+#: ANIga/admin_option.php:270
+msgid "If checked, the <a href='http://redalt.com/wiki/Role+Manager'>Role Manager Plugin</a> must be installed! You should create the new Capabilites 'Gallery Manage', 'Gallery Album', 'Gallery Insert', 'Gallery Options' <br />If unchecked only admins (User Level 10) can manage ANIga!"
+msgstr ""
+
+#: ANIga/admin_option.php:274
+msgid "Use external CSS style sheet"
+msgstr ""
+
+#: ANIga/admin_option.php:275
+msgid "Use the gallery-style.css file for css styles."
+msgstr ""
+
+#: ANIga/admin_option.php:281
+msgid "Picture Link Handling"
+msgstr ""
+
+#: ANIga/admin_option.php:285
+msgid "no link to original Picture."
+msgstr ""
+
+#: ANIga/admin_option.php:288
+msgid "normal link to original Picture, opens in same window."
+msgstr ""
+
+#: ANIga/admin_option.php:291
+msgid "javascript pop-up to original Picture."
+msgstr ""
+
+#: ANIga/admin_option.php:294
+msgid "'lightbox' support. Adds <strong>rel='lightbox'</strong> to link."
+msgstr ""
+
+#: ANIga/admin_option.php:298
+msgid "Picture sorting & order"
+msgstr ""
+
+#: ANIga/admin_option.php:303
+msgid "sort by filename"
+msgstr ""
+
+#: ANIga/admin_option.php:306
+msgid "sort by hits"
+msgstr ""
+
+#: ANIga/admin_option.php:309
+msgid "sort by adding date"
+msgstr ""
+
+#: ANIga/admin_option.php:312
+msgid "order descending"
+msgstr ""
+
+#: ANIga/admin_option.php:315
+msgid "order ascending"
+msgstr ""
+
+#: ANIga/admin_option.php:320
+msgid "Delete Pictures"
+msgstr ""
+
+#: ANIga/admin_option.php:321
+msgid "Delete Pictures and album images from filesystem, not only from database - then they are really gone!"
+msgstr ""
+
+#: ANIga/admin_option.php:325
+msgid "Columns on thumbnail page"
+msgstr ""
+
+#: ANIga/admin_option.php:334
+msgid "Send Trackback"
+msgstr ""
+
+#: ANIga/admin_option.php:335
+msgid "Send a Trackback <strong>once</strong> to the <a href='http://www.animalbeach.net/aniga/' >author</a> of ANIga gallery to notify him that you installed it."
+msgstr ""
+
+#: ANIga/admin_option.php:336
+msgid "Do not send a Trackback and do not show this option any more!"
+msgstr ""
+
+#: ANIga/admin_option.php:343
+msgid "Update Options"
+msgstr ""
+
+#: ANIga/admin_rel.php:20
+msgid "You MUST select a parent Album!"
+msgstr ""
+
+#: ANIga/admin_rel.php:67
+msgid "is not a picture file!"
+msgstr ""
+
+#: ANIga/admin_rel.php:71
+msgid "Album created:"
+msgstr ""
+
+#: ANIga/admin_rel.php:81
+msgid "Add new Album"
+msgstr ""
+
+#: ANIga/admin_rel.php:96
+msgid "Please submit an Album image."
+msgstr ""
+
+#: ANIga/admin_rel.php:109
+msgid "Parent Album"
+msgstr ""
+
+#: ANIga/admin_rel.php:132
+msgid "Album image"
+msgstr ""
+
+#: ANIga/admin_rel.php:161
+msgid "Create Album"
+msgstr ""
+
+#: ANIga/functions.php:10
+msgid "the latest stable version is"
+msgstr ""
+
+#: ANIga/functions.php:91
+#, php-format
+msgid "Picture %s uploaded."
+msgstr ""
+
+#: ANIga/functions.php:94
+#, php-format
+msgid "Picture %s could not be uploaded."
+msgstr ""
+
+#: ANIga/functions.php:143
+#, php-format
+msgid "The file '%s' has been un-zipped to:"
+msgstr ""
+
+#: ANIga/functions.php:145
+msgid "could not read zip file"
+msgstr ""
+
+#: ANIga/functions.php:148
+msgid "could not move zip file to"
+msgstr ""
+
+#: ANIga/functions.php:208
+msgid "uups. No Categories in this Gallery or you are not allowed to view the Categories in this Gallery!<br />Try to login."
+msgstr ""
+
+#: ANIga/functions.php:280
+msgid "uups. There are no Pictures in this Album or there is a mixup with the Pages or you are not allowed to view the Pictures in this Album."
+msgstr ""
+
+#: ANIga/functions.php:362
+msgid "thumbnails"
+msgstr ""
+
+#: ANIga/functions.php:362
+msgid "all thumbnails"
+msgstr ""
+
+#: ANIga/functions.php:389
+#: ANIga/templates/pic.picture_nav.inc.php:8
+#: ANIga/templates/pic.picture_nav.inc.php:9
+#: ANIga/templates/pic.slideshow.inc.php:3
+msgid "previous"
+msgstr ""
+
+#: ANIga/functions.php:406
+#: ANIga/templates/pic.picture_nav.inc.php:19
+#: ANIga/templates/pic.picture_nav.inc.php:20
+#: ANIga/templates/pic.slideshow.inc.php:3
+msgid "next"
+msgstr ""
+
+#: ANIga/functions.php:455
+msgid "comment"
+msgstr ""
+
+#: ANIga/functions.php:462
+#: ANIga/templates/index.albums.inc.php:25
+#: ANIga/templates/pic.childalbums.inc.php:25
+#: ANIga/templates/pic.thumbmeta.inc.php:5
+msgid "comments"
+msgstr ""
+
+#: ANIga/functions.php:508
+msgid "click for full size"
+msgstr ""
+
+#: ANIga/functions.php:561
+msgid "Picture not found. Sorry..."
+msgstr ""
+
+#: ANIga/functions.php:565
+msgid "uhmm.. There is a little mix-up. The requested Picture seems to belong elsewhere..."
+msgstr ""
+
+#: ANIga/functions.php:625
+msgid "Login to view this Picture!"
+msgstr ""
+
+#: ANIga/functions.php:630
+msgid "You are not allowed to view this Picture!"
+msgstr ""
+
+#: ANIga/functions.php:723
+msgid "Login to view this Album!"
+msgstr ""
+
+#: ANIga/functions.php:728
+msgid "You are not allowed to view this Album!"
+msgstr ""
+
+#: ANIga/functions.php:791
+msgid "WARNING: your absolute path must end with '/' !"
+msgstr ""
+
+#: ANIga/functions.php:794
+msgid "WARNING: your Gallery Directory is not writeable!"
+msgstr ""
+
+#: ANIga/functions.php:795
+msgid "WARNING: your '00-gfx' Directory does not exist!"
+msgstr ""
+
+#: ANIga/functions.php:796
+msgid "WARNING: your '00-gfx' Directory is not writeable!"
+msgstr ""
+
+#: ANIga/functions.php:797
+msgid "WARNING: your '00-single' Directory does not exist!"
+msgstr ""
+
+#: ANIga/functions.php:798
+msgid "WARNING: your '00-single' Directory is not writeable!"
+msgstr ""
+
+#: ANIga/functions.php:800
+msgid "WARNING: your Gallery Directory does not exist or your Settings are incorrect!"
+msgstr ""
+
+#: ANIga/functions.php:802
+msgid "WARNING: your http url must end with '/' !"
+msgstr ""
+
+#: ANIga/slideshow.php:693
+#, php-format
+msgid "<strong>one</strong> comment for %1$s (%2$s views)"
+msgstr ""
+
+#: ANIga/slideshow.php:695
+#, php-format
+msgid "<strong>%1$s</strong> comments for %2$s (%3$s views)"
+msgstr ""
+
+#: ANIga/slideshow.php:697
+#, php-format
+msgid "no comments for %1$s (%2$s views)"
+msgstr ""
+
+#: ANIga/zip.php:20
+msgid "Select an Album!"
+msgstr ""
+
+#: ANIga/templates/index.albums.inc.php:25
+#: ANIga/templates/index.meta.inc.php:7
+#: ANIga/templates/pic.childalbums.inc.php:25
+msgid "galleries"
+msgstr ""
+
+#: ANIga/templates/index.albums.inc.php:25
+#: ANIga/templates/index.meta.inc.php:7
+#: ANIga/templates/pic.childalbums.inc.php:25
+msgid "pictures"
+msgstr ""
+
+#: ANIga/templates/index.albums.inc.php:25
+#: ANIga/templates/index.meta.inc.php:7
+#: ANIga/templates/pic.childalbums.inc.php:25
+#: ANIga/templates/pic.picture.inc.php:11
+#: ANIga/templates/pic.thumbmeta.inc.php:5
+msgid "views"
+msgstr ""
+
+#: ANIga/templates/index.meta.inc.php:7
+msgid "comments "
+msgstr ""
+
+#: ANIga/templates/misc.top_pics.inc.php:3
+msgid "most viewed pictures"
+msgstr ""
+
+#: ANIga/templates/pic.navpic.inc.php:1
+#: ANIga/templates/pic.navthumb.inc.php:1
+#: ANIga/templates/pic.picture.inc.php:7
+msgid "back to thumbnails for"
+msgstr ""
+
+#: ANIga/templates/pic.picture.inc.php:8
+msgid "back to thumbnails"
+msgstr ""
+
+#: ANIga/templates/pic.picture.inc.php:10
+msgid "view all pictures as a slideshow"
+msgstr ""
+
+#: ANIga/templates/pic.picture.inc.php:10
+#: ANIga/templates/pic.thumbmenu.inc.php:1
+msgid "start slideshow"
+msgstr ""
+
+#: ANIga/templates/pic.slideshow.inc.php:2
+msgid "click to view picture"
+msgstr ""
+
+#: ANIga/templates/pic.slideshow.inc.php:2
+msgid "Slideshow Picture"
+msgstr ""
+
+#: ANIga/templates/pic.slideshow.inc.php:3
+msgid "pause"
+msgstr ""
+
+#: ANIga/templates/pic.slideshow.inc.php:3
+msgid "play"
+msgstr ""
+
+#: ANIga/templates/pic.slideshow.inc.php:3
+msgid "random"
+msgstr ""
+
+#: ANIga/templates/pic.slideshow.inc.php:37
+msgid "view this picture with comments"
+msgstr ""
+
+#: ANIga/templates/pic.slideshow.inc.php:39
+msgid "You need to enable javascript to view the Slideshow."
+msgstr ""
+
+#: ANIga/templates/pic.thumbmenu.inc.php:1
+msgid "show"
+msgstr ""
+
+#: ANIga/templates/pic.thumbmenu.inc.php:1
+msgid "per page"
+msgstr ""
+
+#: ANIga/templates/pic.thumbmeta.inc.php:5
+msgid "gallery created on"
+msgstr ""
+
